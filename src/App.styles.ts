@@ -17,6 +17,6 @@ export const Container=styled.div`
   padding:0;
   color: #fff;
   text-align: center;
-  border-bottom:1px solid #444;
+  border-bottom:1px solid #fff;
   padding-bottom: 20px;
   `;
